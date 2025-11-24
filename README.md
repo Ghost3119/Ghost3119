@@ -24,5 +24,5 @@ Actualmente estoy enfocado en profundizar mis conocimientos en Arquitectura Limp
 ---
 
 ### 📫 Contacto
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tu-usuario-aqui/](https://www.linkedin.com/in/jorge-camacho-ibarra-776232214/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/jorge-camacho-ibarra-776232214/])
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jairdelarge@gmail.com)
