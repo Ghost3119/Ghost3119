@@ -31,14 +31,11 @@ Actualmente estoy enfocado en profundizar mis conocimientos en Arquitectura Limp
 
 ---
 
-### 📊 Mis Estadísticas
+### 📊 Lenguajes y Hábitos
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghost3119&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
-  <br/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=Ghost3119&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
+  <img src="https://metrics.lecoq.io/Ghost3119?template=classic&base=header,repositories&config.timezone=America%2FMexico_City" alt="metrics" />
 </div>
+
 ---
 
 ### 📫 Contacto
